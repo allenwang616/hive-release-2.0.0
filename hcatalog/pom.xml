@@ -69,7 +69,7 @@
       <groupId>org.apache.pig</groupId>
       <artifactId>pig</artifactId>
       <version>${pig.version}</version>
-      <classifier>h2</classifier>
+      <!--<classifier>h2</classifier>-->
       <scope>test</scope>
     </dependency>
   </dependencies>
